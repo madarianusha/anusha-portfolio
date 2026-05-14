@@ -1,4 +1,4 @@
-import Navbar from "./TempNavbar"
+import Navbar from "./Navbar"
 
 function Contact({ setActiveSection }) {
 
